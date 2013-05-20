@@ -70,6 +70,7 @@ public class ConnectNeo4j {
         registerShutdownHook(graphDb);
     }
     
+    
     // Registers a shutdown hook for the Neo4j and index service instances
     // so that it shuts down nicely when the VM exits (even if you
     // "Ctrl-C" the running example before it's completed)
