@@ -21,7 +21,7 @@ public class ControllerServlet extends HttpServlet {
 //     * Processes requests for both HTTP
 //     * <code>GET</code> and
 //     * <code>POST</code> methods.
-//     * !! Il gere les post et les get, je les commenté comme il était
+//     * !! Il gere les post et les get, je l'ai commenté comme il était
 //     * demandé dans le tutorial mais il semble adapté a ce que je souhaite 
     // * faire !!
 //     * @param request servlet request
